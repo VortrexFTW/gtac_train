@@ -1,0 +1,5 @@
+<meta>
+	<info author="jack9267" description="Provides trains for GTA III" />
+
+	<script src="server.js" type="server" language="javascript" />
+</meta>
