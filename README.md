@@ -1,2 +1,7 @@
-# gtac_train
-Exact copy of GTA III stock trains, implemented in JS for GTA Connected.
+# Trains for GTA III on GTA Connected
+
+Exact copy of the GTA III singleplayer trains, implemented in JavaScript for (GTA Connected)[https://gtacpnnected.com]
+Created by (Jack Powell)[https://github.com/jack9267]
+
+For instrustions on how to use this, head over to the GTA Connected forum:
+[https://forum.gtaconnected.com/viewtopic.php?f=12&t=15]
